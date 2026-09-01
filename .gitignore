@@ -1,0 +1,19 @@
+# Jupyter Notebook
+
+**/.ipynb_checkpoints/  
+.ipynb_checkpoints/     
+__pycache__/           
+*.py[cod]               
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+
+# Логи и отчеты выполнения
+*.log
+.pytest_cache/
+
+# Конфиденциальные данные 
+.env
